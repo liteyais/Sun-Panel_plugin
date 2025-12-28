@@ -1,2 +1,2 @@
 # Sun-Panel_plugin
-Sun-Panel相关插件
+Sun-Panel相关js插件
