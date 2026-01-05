@@ -8,7 +8,7 @@
 ## 2、另外一种，用壳加载多个js或css
 在【全局设置】→【自定义JS和CSS文件】粘贴壳（多JS、CSS调用的脚本js，暂且简称壳）。只需要在壳js代码中，把效果的js路径设或文件名设置下。然后把你的效果的js或者css放到你的nas文件夹custom中即可。<br/><br/>
 步骤：<br/>
-①、在【全局设置】→【自定义JS和CSS文件】粘贴壳js。[壳代码在这](https://github.com/liteyais/Sun-Panel_plugin/blob/main/js%E5%A3%B32.js)<br/><br/>
+①、在【全局设置】→【自定义JS和CSS文件】粘贴壳全部js代码。[壳代码在这](https://github.com/liteyais/Sun-Panel_plugin/blob/main/js%E5%A3%B32.js)<br/><br/>
 <img width="594" height="229" alt="02" src="https://github.com/user-attachments/assets/8a61e809-6756-4355-9bac-03c36c4c6c13" /><br/><br/>
 
 ②、把你的js效果或css放到nas的对应文件夹内：【custom】<br/><br/>
